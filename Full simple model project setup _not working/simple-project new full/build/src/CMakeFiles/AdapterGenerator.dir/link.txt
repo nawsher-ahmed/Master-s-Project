@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AdapterGenerator.dir/adapter_generator.cpp.o -o AdapterGenerator 

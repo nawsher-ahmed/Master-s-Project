@@ -1,0 +1,13 @@
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/CMakeFiles/rebuild_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/src/CMakeFiles/FindNamedStructTool.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/src/CMakeFiles/AdapterGenerator.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/src/CMakeFiles/generate_adapters.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/src/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/src/CMakeFiles/rebuild_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/server/CMakeFiles/server.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/server/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/server/CMakeFiles/rebuild_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/client/CMakeFiles/client.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/client/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/File that worked/Not working yet (full)/simple-project new full/build/client/CMakeFiles/rebuild_cache.dir

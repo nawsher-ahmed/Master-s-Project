@@ -1,0 +1,8 @@
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/intrinsics_gen.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/omp_gen.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/acc_gen.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/clang-tablegen-targets.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/FindNamedClassTool.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/Project Intermediate/ClangTool/build/CMakeFiles/rebuild_cache.dir

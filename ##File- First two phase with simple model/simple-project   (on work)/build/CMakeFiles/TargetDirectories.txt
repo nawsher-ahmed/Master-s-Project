@@ -1,0 +1,4 @@
+/home/nawsher/Desktop/simple-project   (on work)/build/CMakeFiles/FindNamedStructTool.dir
+/home/nawsher/Desktop/simple-project   (on work)/build/CMakeFiles/AdapterGenerator.dir
+/home/nawsher/Desktop/simple-project   (on work)/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/simple-project   (on work)/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+/home/nawsher/Desktop/simple_tcp_project/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/simple_tcp_project/build/CMakeFiles/rebuild_cache.dir
+/home/nawsher/Desktop/simple_tcp_project/build/client/CMakeFiles/client.dir
+/home/nawsher/Desktop/simple_tcp_project/build/client/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/simple_tcp_project/build/client/CMakeFiles/rebuild_cache.dir
+/home/nawsher/Desktop/simple_tcp_project/build/server/CMakeFiles/server.dir
+/home/nawsher/Desktop/simple_tcp_project/build/server/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/simple_tcp_project/build/server/CMakeFiles/rebuild_cache.dir

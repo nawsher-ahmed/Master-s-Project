@@ -1,0 +1,4 @@
+/home/nawsher/Desktop/simple-project *new Model2.h/build/CMakeFiles/FindNamedStructTool.dir
+/home/nawsher/Desktop/simple-project *new Model2.h/build/CMakeFiles/AdapterGenerator.dir
+/home/nawsher/Desktop/simple-project *new Model2.h/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/simple-project *new Model2.h/build/CMakeFiles/rebuild_cache.dir

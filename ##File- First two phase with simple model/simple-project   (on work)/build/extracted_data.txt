@@ -1,0 +1,4 @@
+I : real_T
+Struct: ExtU_Model2_T
+U : real_T
+Struct: ExtY_Model2_T

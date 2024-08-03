@@ -1,0 +1,3 @@
+/home/nawsher/Desktop/Project Intermediate/Client/build/CMakeFiles/Client.dir
+/home/nawsher/Desktop/Project Intermediate/Client/build/CMakeFiles/edit_cache.dir
+/home/nawsher/Desktop/Project Intermediate/Client/build/CMakeFiles/rebuild_cache.dir

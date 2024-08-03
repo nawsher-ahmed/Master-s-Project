@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fb8d761ec4e453a1bc711fab24942c34 src/CMakeFiles/generate_adapters
